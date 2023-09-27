@@ -1,0 +1,60 @@
+body{ 
+  background-color: black; 
+  font-family: 'Montserrat', sans-serif;
+} 
+
+.Image{ 
+  height:100%; 
+  float:left;
+  background-color:black; 
+  width: 50%; 
+} 
+.Hello{ 
+ font-size: 30px; 
+ color:white; 
+ top: 0;
+ left: 3px;
+ font-family: 'Montserrat', sans-serif;
+}
+.Inner-Container{ 
+  background-color:black ; 
+  Width:50%; 
+  height:100%; 
+  float:left; 
+  background-color:black; 
+}  
+
+img{ 
+  height:100%; 
+  width:80%; 
+  margin-left: 30px; 
+} 
+.enthusiastic {  
+  font-size: 18px; 
+  font-family: 'Montserrat', sans-serif;
+  color:white; 
+}
+.Nanevie{ 
+  font-size: 80px; 
+  font-weight:bold; 
+  color:white; 
+  top: 34px;
+ left: 0;
+ line-height: 120.4%;
+ font-family: 'Montserrat', sans-serif;
+}  
+.get-in-touch{
+text-decoration: none;
+color:white;
+font: 1em sans-serif;
+font-size: small;
+border-bottom: 2px solid #e94c1a;
+border-width:5px;
+width: 100px;
+height: 19px;
+}
+.Main-Container{ 
+  padding: 10% 20%; 
+  background-color:black; 
+  height: 380px; 
+ }
